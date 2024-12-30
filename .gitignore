@@ -1,0 +1,22 @@
+# Python virtual env
+venv/
+
+# Subtitles
+*.json
+*.mkv
+*.srt
+*.tsv
+*.txt
+*.vtt
+
+# Allow python requirements
+!requirements.txt
+
+# Video/audio files
+*.avi
+*.flv
+*.m4a
+*.mkv
+*.mp3
+*.mp4
+*.webm
