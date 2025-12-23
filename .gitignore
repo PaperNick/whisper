@@ -11,6 +11,7 @@ venv/
 
 # Allow python requirements
 !requirements.txt
+!requirements_lock.txt
 
 # Video/audio files
 *.avi
